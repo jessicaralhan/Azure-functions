@@ -1,0 +1,6 @@
+azure-functions
+azure-identity
+azure-mgmt-compute
+boto3
+pytz
+azure-storage-blob
