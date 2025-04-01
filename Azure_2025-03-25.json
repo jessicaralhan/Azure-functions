@@ -1,0 +1,26 @@
+[
+    {
+        "VM Name": "azure-sdk-assignment-vm",
+        "VM ID": "/subscriptions/ec4fb7b4-423c-4d77-b36f-350d022cbca6/resourceGroups/AZURE-SDK-ASSIGNMENT/providers/Microsoft.Compute/virtualMachines/azure-sdk-assignment-vm",
+        "VM Resource Group": "AZURE-SDK-ASSIGNMENT",
+        "VM operating system": "linux",
+        "VM Subscription ID": "ec4fb7b4-423c-4d77-b36f-350d022cbca6",
+        "Region": "centralus",
+        "VM type": "Microsoft.Compute/virtualMachines",
+        "VM id": "b169e8c0-1209-4f27-bd97-d1892fc6e71d",
+        "Provisioning state": "Succeeded",
+        "VM Launch Time": "2025/03/20 07:13"
+    },
+    {
+        "VM Name": "py-assignmnet-vm",
+        "VM ID": "/subscriptions/ec4fb7b4-423c-4d77-b36f-350d022cbca6/resourceGroups/PY-ASSIGNMENT-1/providers/Microsoft.Compute/virtualMachines/py-assignmnet-vm",
+        "VM Resource Group": "PY-ASSIGNMENT-1",
+        "VM operating system": "linux",
+        "VM Subscription ID": "ec4fb7b4-423c-4d77-b36f-350d022cbca6",
+        "Region": "centralus",
+        "VM type": "Microsoft.Compute/virtualMachines",
+        "VM id": "545a57cc-2a13-446a-936f-2b7eb1fa4404",
+        "Provisioning state": "Succeeded",
+        "VM Launch Time": "2025/03/18 11:26"
+    }
+]

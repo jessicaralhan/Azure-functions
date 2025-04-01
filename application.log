@@ -1,0 +1,81 @@
+2025-03-31 23:03:48,366 Request URL: 'https://login.microsoftonline.com/334b112b-8ea3-4b1e-b061-5ab257e7f11d/v2.0/.well-known/openid-configuration'
+Request method: 'GET'
+Request headers:
+    'User-Agent': 'azsdk-python-identity/1.21.0 Python/3.12.3 (Linux-6.11.0-19-generic-x86_64-with-glibc2.39)'
+No body was attached to the request
+2025-03-31 23:03:48,908 Response status: 200
+Response headers:
+    'Cache-Control': 'max-age=86400, private'
+    'Content-Type': 'application/json; charset=utf-8'
+    'Strict-Transport-Security': 'REDACTED'
+    'X-Content-Type-Options': 'REDACTED'
+    'Access-Control-Allow-Origin': 'REDACTED'
+    'Access-Control-Allow-Methods': 'REDACTED'
+    'P3P': 'REDACTED'
+    'x-ms-request-id': '6a8bcf17-68bd-4dfc-b91c-ec7e53913200'
+    'x-ms-ests-server': 'REDACTED'
+    'x-ms-srs': 'REDACTED'
+    'Content-Security-Policy-Report-Only': 'REDACTED'
+    'X-XSS-Protection': 'REDACTED'
+    'Set-Cookie': 'REDACTED'
+    'Date': 'Mon, 31 Mar 2025 17:33:48 GMT'
+    'Content-Length': '1753'
+2025-03-31 23:03:48,912 Request URL: 'https://login.microsoftonline.com/334b112b-8ea3-4b1e-b061-5ab257e7f11d/oauth2/v2.0/token'
+Request method: 'POST'
+Request headers:
+    'Accept': 'application/json'
+    'x-client-sku': 'REDACTED'
+    'x-client-ver': 'REDACTED'
+    'x-client-os': 'REDACTED'
+    'x-ms-lib-capability': 'REDACTED'
+    'client-request-id': 'REDACTED'
+    'x-client-current-telemetry': 'REDACTED'
+    'x-client-last-telemetry': 'REDACTED'
+    'User-Agent': 'azsdk-python-identity/1.21.0 Python/3.12.3 (Linux-6.11.0-19-generic-x86_64-with-glibc2.39)'
+A body is sent with the request
+2025-03-31 23:03:49,214 Response status: 200
+Response headers:
+    'Cache-Control': 'no-store, no-cache'
+    'Pragma': 'no-cache'
+    'Content-Type': 'application/json; charset=utf-8'
+    'Expires': '-1'
+    'Strict-Transport-Security': 'REDACTED'
+    'X-Content-Type-Options': 'REDACTED'
+    'P3P': 'REDACTED'
+    'client-request-id': 'REDACTED'
+    'x-ms-request-id': '6dc9bbb2-5d5d-423d-bb80-26826e5b4200'
+    'x-ms-ests-server': 'REDACTED'
+    'x-ms-clitelem': 'REDACTED'
+    'x-ms-srs': 'REDACTED'
+    'Content-Security-Policy-Report-Only': 'REDACTED'
+    'X-XSS-Protection': 'REDACTED'
+    'Set-Cookie': 'REDACTED'
+    'Date': 'Mon, 31 Mar 2025 17:33:49 GMT'
+    'Content-Length': '1397'
+2025-03-31 23:03:49,215 ClientSecretCredential.get_token_info succeeded
+2025-03-31 23:03:49,216 Request URL: 'https://management.azure.com/subscriptions/ec4fb7b4-423c-4d77-b36f-350d022cbca6/providers/Microsoft.Compute/virtualMachines?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'Accept': 'application/json'
+    'x-ms-client-request-id': '4dcb7291-0e56-11f0-8db7-c4efbb701177'
+    'User-Agent': 'azsdk-python-azure-mgmt-compute/34.0.0 Python/3.12.3 (Linux-6.11.0-19-generic-x86_64-with-glibc2.39)'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-03-31 23:03:50,650 Response status: 200
+Response headers:
+    'Cache-Control': 'no-cache'
+    'Pragma': 'no-cache'
+    'Content-Length': '5049'
+    'Content-Type': 'application/json; charset=utf-8'
+    'Expires': '-1'
+    'x-ms-request-id': 'eacdbe24-05eb-4a4a-b129-1ef45276f2fb'
+    'x-ms-correlation-request-id': 'REDACTED'
+    'x-ms-routing-request-id': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'X-Content-Type-Options': 'REDACTED'
+    'X-Cache': 'REDACTED'
+    'X-MSEdge-Ref': 'Ref A: CF34BFB1A3494B6AA87121E0AB7EBE00 Ref B: MAA201060514023 Ref C: 2025-03-31T17:33:49Z'
+    'Date': 'Mon, 31 Mar 2025 17:33:50 GMT'
+2025-03-31 23:03:50,660 VM name which is running from last 2 or more than 2 days - azure-sdk-assignment-vm
+2025-03-31 23:03:50,660 VM name which is running from last 2 or more than 2 days - py-assignmnet-vm
+2025-03-31 23:03:50,661 VM report is generated

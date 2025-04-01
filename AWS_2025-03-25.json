@@ -1,0 +1,10 @@
+[
+    {
+        "VM Name": "python-assignment-EC2",
+        "VM ID": "i-08868430b8bc84c65",
+        "VM Type": "t3.micro",
+        "Region": "eu-north-1b",
+        "VM State": "running",
+        "VM Launch Time": "2025/03/21 09:06"
+    }
+]
